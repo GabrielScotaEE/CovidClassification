@@ -107,12 +107,6 @@ def PlotClassFrequency(data_frame):
     return
 
 
-    
-    
-
-
-
-
 
 def SplitDataSetByPatientID(data_frame):
     print('---------------------------------')
